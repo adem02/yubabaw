@@ -1,0 +1,11 @@
+div.MuiSnackbar-anchorOriginTopRight {
+    position: static;
+    z-index: 3;
+}
+
+div.MuiSnackbarContent-root {
+    min-width: 180px;
+    background-color: rgba(58, 204, 87, 0.644);
+    line-height: normal;
+    padding: 0;
+}

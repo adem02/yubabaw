@@ -1,0 +1,12 @@
+span.MuiSwitch-colorSecondary.Mui-checked:hover {
+    background-color: rgba(98, 207, 98, 0.082);
+}
+
+span.MuiSwitch-colorSecondary.Mui-checked {
+    color: green;
+}
+
+span.MuiSwitch-colorSecondary.Mui-checked + span.MuiSwitch-track {
+    background-color:green;
+    opacity: 0.5999;
+}
